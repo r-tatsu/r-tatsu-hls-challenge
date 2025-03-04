@@ -1,4 +1,4 @@
-##### ※For my personal use
+Storing code submitted in HLS-Challenge
 -----
 #### CMD
 ```sh
