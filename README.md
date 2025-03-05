@@ -1,4 +1,4 @@
-The code submitted to HLS-Challenge
+The code submitted in HLS-Challenge
 
 -----
 #### CMD
